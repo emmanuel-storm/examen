@@ -10,3 +10,5 @@ print(c)
 print("ça avance bien !")
 
 print("les lignes de commandes c'est pas mal")
+
+print("la cavalerie est là !")
