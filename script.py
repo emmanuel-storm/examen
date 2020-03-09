@@ -14,3 +14,5 @@ print("les lignes de commandes c'est pas mal")
 print("je m'appelle emmanuel")
 
 print("j'ai deux freres et deux soeurs")
+
+print("ça devient chaud la")
